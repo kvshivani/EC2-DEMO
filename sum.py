@@ -1,2 +1,3 @@
-a,b=int(input("enter a and b "))
+a=int(input("enter a"))
+b=int(input("enter b"))
 print(a+b)
